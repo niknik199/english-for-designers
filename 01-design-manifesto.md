@@ -1,5 +1,5 @@
 # First commit
-
-Sem neco napisu
-
+nnnn
 ### huhu
+
+edituji
