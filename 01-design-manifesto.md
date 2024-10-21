@@ -13,7 +13,7 @@ Some people might say, that architecture is very creative, and it definitely can
 Graphic design allows me to be much more free, creative and let my imagination run wildly with almost no boundaries.
 
 ### 3. Purpose 🎯
-Every design must have meaning, purpose and be functional. It is not just about the aesthetic. The visual is VERY important. It is one of the main things, that sales the products. But it ALWAYS has to have purpose and function. I feel really satisfied when I'm looking at some good design and find some little details, that makes the design more meaningful, interesting and memorable. Isn't it nice, when you find some kind of "easter egg" in a design you have seen many times, but never explored it in detail before?
+Every design must have meaning, purpose and be functional. It is not just about the aesthetic. The visual is VERY important. It is one of the main things, that sales the products. But it ALWAYS has to have purpose and function. I feel really satisfied when I'm looking at some good design and find some little detail, that makes the design more meaningful, interesting and memorable. Isn't it nice, when you find some kind of an "easter egg" in a design you have seen many times, but never explored it in detail before? For example the arrow in FedEx logo. It just makes a perfect sense.  
 
 ### 4. Growth 🚀
 What is really important for designers, is to be always willing to evolve. Keeping up with new trends, technologies. Being open to change. The world around us keeps changing every day, so we have to keep up with it.
