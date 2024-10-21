@@ -1,13 +1,15 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# Design manifesto
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+## My key values as a designer
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+### 1. Passion for what you are doing
+I have to love the topic and find the passion for every specific task to deliver the best results. Without passion, design loses its meaning.
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+### 2. Freedom
+For me design is about exploring new ideas, experimenting, and pushing boundaries without restrictions.
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+### 3. Purpose
+Every design must have meaning, purpose and be functional.
+
+### 4. Growth
+Always want to keep evolving. Keeping up with new trends, technologies. Being open to change.
