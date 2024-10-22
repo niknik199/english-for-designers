@@ -17,3 +17,10 @@ Every design must have meaning, purpose and be functional. It is not just about 
 
 ### 4. Growth 🚀
 What is really important for designers, is to be always willing to evolve. Keeping up with new trends, technologies. Being open to change. The world around us keeps changing every day, so we have to keep up with it.
+
+
+Mapping my progress:
+At first I started to summarize my ideas in this doc:
+
+
+
