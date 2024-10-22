@@ -6,7 +6,7 @@
 Passion for the things you are doing is important for everyone. Not just designers. As Steve Jobs said, "The only way to do great work is to love what you do.”, and it is doubly true for pleople working in creative industry. Unless you became truly passionate about the assignment, you won't get inspired and the results won't be the best. Without the passion design loses its meaning.
 
 ### 2. Freedom 🗽
-Personally the main thing I adore about the design is the freedom. I have always been a creative person with a visual thinking. But when I was choosing the university, firstly I chose to study architecture at CTU. 
+Personally the main thing I adore about the design is the freedom. I have always been a creative person with a visual thinking. But when I was choosing the university, firstly I chose to study architecture at CTU. So I was studying Architecture for 3 years and than I decided to change it.
 
 Some people might say, that architecture is very creative, and it definitely can be, but it has VERY STRICT rules, which are important for the safety, ecology, comfort, financial costs, etc. It is a huge responsibility, and it is very hard to keep being creative, while design good buildings for people at the same time.
 
