@@ -4,7 +4,7 @@ I am currently in my final year of a Bachelor’s degree in Graphic Design at PS
 
 Additionally, I hold a position of a graphic designer at Mantaa agency, where I create both online and print promotional content for the cosmetic brand Kneipp and Hartmann. This agency collaborates with clients such as Notino, DM, Rossmann, Alza, ElNino etc., so my work usually appears on their websites or magazines.  
 
-Balancing my studies, work, and upcoming motherhood in just a few months has proven to be really challenging.
+Balancing my studies, work, and upcoming motherhood in just a few months has proven to be really challenging. I aspire to continue growing in the design field while balancing my upcoming journey into motherhood.
 
 # Nikola's journey to graphic design
 
