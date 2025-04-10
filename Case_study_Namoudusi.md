@@ -1,4 +1,5 @@
-## **Namouduši**
+# **Namouduši**
+## Together we will handle every emotion
 Namouduši (Namoudushi) is an educational board game for children aged between 6 and 12 years.
 I created this project as part of my bachelor thesis.
 It creates a safe space where children can learn how to identify, name, express and safely process their emotions. 
