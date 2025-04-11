@@ -38,10 +38,17 @@ Through the interaction, children learn to:
 - A colorful board with 8 emotion zones
 - 3D characters,
 
-# **There are no winners or losers. The goal is shared understanding.**
+### **There are no winners or losers. The goal is shared understanding.**
 
 The game is designed to be flexible: families can play together, techers can use it in class, therapists can bring it into their sessions. No two games are the same, every round opens up new conversations.
 
-# The biggest challenge when designing Namouduši was to find the right target group. 
+## The biggest challenge when designing Namouduši was to find the right target group. 
 Firstly the concept was meant to be for younger children, but after several consultation with the psychologists, I decided that this particular version of the game would be more suitable for older children. There is an opportunity, and I hope, I will take it, to make more versions of the game for other age cathegories.
 
+## The result is a design that feels safe
+Visuals were a key part of the experience. I worked with soft, rounded shapes, colorful, yet calming palettes, and child-friendly typography.
+
+Each emotion has its own color and character — based on psychological research how people perceive shapes and colors. The aim was to make every element feel warm, inviting, and emotionally safe.
+As I said, I see Namouduši Junior (for children 6 to 12 years old) as a starting point.I'd like to create more versions, that would adapt to different age groups. I believe, there is much more potential.
+
+Namouduši isn’t just a game — it’s a bridge between children and adults. And maybe, that’s where real learning begins 
