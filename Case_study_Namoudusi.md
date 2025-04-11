@@ -41,5 +41,3 @@ Through the interaction, children learn to:
 # There are no winners or losers. The goal is shared understanding.
 
 The game is designed to be flexible: families can play together, teachers can use it in class, therapists can bring it into their sessions. No two games are the same, every round opens up new conversations.
-
-
