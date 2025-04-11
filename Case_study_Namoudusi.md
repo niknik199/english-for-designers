@@ -13,7 +13,7 @@ It is not just a "typical board game". It is a tool for deeper **emotional under
 My wish is to create a safe space without judging, where everyone can be heard and accepted for who they really are.
 It is really important for children to learn this ability, not just for the parent-children relationship, but it provides lifelong skills that can influence much more, than we think.
 
-## The problem: Hiding emotions
+## **The problem: Hiding emotions**
 
 Emotional intelligence is rarely taught, but it shapes everything: our relationships, problem solving skills, and feeling about ourselves.
 
@@ -21,7 +21,7 @@ Many children, and even adults don’t know how to talk about their emotions. Pa
 
 So my goal was simple - create a tool that makes emotions easier to talk about. Not through lectures, but through stories, fun activiities. laughter, and connection. Through spending some *quality time* together. 
 
-## The Solution: Welcome to the world full of emotions! It's all already in you, let's just explore it together!
+## **The Solution: Welcome to the world full of emotions! It's all already in you, let's just explore it together!**
 
 The game introduces a group of emotional creatures — each one represents one of 8 feelings. There is joy, sadness, fear, anger, trust, disgust, anticipation and surprise. Kids meet these characters in different activities, which help them figure out what’s going on. 
 
@@ -38,6 +38,10 @@ Through the interaction, children learn to:
 - A colorful board with 8 emotion zones
 - 3D characters,
 
-# There are no winners or losers. The goal is shared understanding.
+# **There are no winners or losers. The goal is shared understanding.**
 
-The game is designed to be flexible: families can play together, teachers can use it in class, therapists can bring it into their sessions. No two games are the same, every round opens up new conversations.
+The game is designed to be flexible: families can play together, techers can use it in class, therapists can bring it into their sessions. No two games are the same, every round opens up new conversations.
+
+# The biggest challenge when designing Namouduši was to find the right target group. 
+Firstly the concept was meant to be for younger children, but after several consultation with the psychologists, I decided that this particular version of the game would be more suitable for older children. There is an opportunity, and I hope, I will take it, to make more versions of the game for other age cathegories.
+
