@@ -21,3 +21,25 @@ Many children, and even adults don’t know how to talk about their emotions. Pa
 
 So my goal was simple - create a tool that makes emotions easier to talk about. Not through lectures, but through stories, fun activiities. laughter, and connection. Through spending some *quality time* together. 
 
+## The Solution: Welcome to the world full of emotions! It's all already in you, let's just explore it together!
+
+The game introduces a group of emotional creatures — each one represents one of 8 feelings. There is joy, sadness, fear, anger, trust, disgust, anticipation and surprise. Kids meet these characters in different activities, which help them figure out what’s going on. 
+
+**Why do you think people have trust issues? What can you hear, if we stay quiet for a while? Do you think it is okay to cry, if we are sad?**
+
+Through the interaction, children learn to:
+- Name and recognize different emotions,
+- Understand why feelings happen,
+- Talk about their own emotions,
+- Support others with empathy.
+
+**The game includes:**
+- Emotion playing cards
+- A colorful board with 8 emotion zones
+- 3D characters,
+
+# There are no winners or losers. The goal is shared understanding.
+
+The game is designed to be flexible: families can play together, teachers can use it in class, therapists can bring it into their sessions. No two games are the same, every round opens up new conversations.
+
+
