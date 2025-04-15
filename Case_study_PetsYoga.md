@@ -43,7 +43,7 @@ It took a few rounds of adjustments to find the right balance between creativity
 
 The logo is based on a friendly geometric font with a playful twist — the “Y” turns into a puppy nose and smile, suggesting pet symbol and joy, but also meditating figure sitting in lotus position. 
 
-![PYP animation](PetsYogaAnimation.mp4)
+![PYP animation](PetsYogaAnimation-ezgif.com-video-to-gif-converter.gif)
 
 Along with that, I developed:
 
@@ -53,10 +53,7 @@ Along with that, I developed:
 - Business cards, posters, rollups, metro banners
 
 Everything was designed to feel calm, friendly and full of positive energy — just like the sessions themselves.
+![PYP outcome](PYP_outcome.png)
 
 The branding was fully realized and implemented — from print to online. The client was really happy with the final result and felt that the new look finally matched the atmosphere of their events.
-
-![PYP animation](PYP outcome.png)
-
-
 For me, this project was a great opportunity to combine emotional storytelling with clean, effective design. And honestly? It made me smile every time I worked on it.
