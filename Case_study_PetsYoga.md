@@ -8,9 +8,11 @@ So I started with simmilar brands research. I needed to do it differently, to ma
 
 ## Market analysis
 
-/ Czech market analysis /
+**czech market research**
+![czech market research](czech_research.png)
 
-/ European market analysis /
+**european market research**
+![european market research](europe_research.png)
 
 | Overcomplicated design      | Too much emmphasis on cuteness | The paw symbol overuse     |
 | :---        |    :----:   |          ---: |
@@ -41,7 +43,7 @@ It took a few rounds of adjustments to find the right balance between creativity
 
 The logo is based on a friendly geometric font with a playful twist — the “Y” turns into a puppy nose and smile, suggesting pet symbol and joy, but also meditating figure sitting in lotus position. 
 
-/Gif logo animation/
+![PYP animation](PetsYogaAnimation.mp4)
 
 Along with that, I developed:
 
@@ -53,5 +55,8 @@ Along with that, I developed:
 Everything was designed to feel calm, friendly and full of positive energy — just like the sessions themselves.
 
 The branding was fully realized and implemented — from print to online. The client was really happy with the final result and felt that the new look finally matched the atmosphere of their events.
+
+![PYP animation](PYP outcome.png)
+
 
 For me, this project was a great opportunity to combine emotional storytelling with clean, effective design. And honestly? It made me smile every time I worked on it.
