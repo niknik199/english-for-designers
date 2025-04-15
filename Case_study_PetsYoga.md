@@ -31,13 +31,12 @@ The goal based on the market research and client's requremets was to create:
 So I started sketching and brainstorming my ideas on the paper, trying to find the ideal combination.
 I knew I wanted to in cocporate somehow thy symbol of the dog's head or nose, ears. Anything related to pets, but not the paw! I really wanted to avoid typical “pet branding” clichés — I wanted something more thoughtful and modern, something people would remember. I wanted to create a lovebrand visual.
 
-/ photo of the firts sketches /
+![european market research](sketches.png)
 
 It was really challenging, to match all theese requrements. During the process, I started to be a little frustrated, so I also tried to work with the paw symbol, even if I knew, this symbol is so overused... nothing just seemd to work out. I was struggling with overcomplicated designs, poor readability or too "childish" look.
 
 It took a few rounds of adjustments to find the right balance between creativity and clarity. But then the idea started to form itself on the paper.
 
-/ Pets yoga logo sketches /
 
 ## New logo was born
 
@@ -54,6 +53,8 @@ Along with that, I developed:
 
 Everything was designed to feel calm, friendly and full of positive energy — just like the sessions themselves.
 ![PYP outcome](PYP_outcome.png)
+
+![PYP outcome](B4_after.png)
 
 The branding was fully realized and implemented — from print to online. The client was really happy with the final result and felt that the new look finally matched the atmosphere of their events.
 For me, this project was a great opportunity to combine emotional storytelling with clean, effective design. And honestly? It made me smile every time I worked on it.
