@@ -31,8 +31,8 @@ Clear and correct visuals are essential for making fast, safe decisions.
 
 - **The Formula Milk Crisis**
 
-Because of problems with breastfeeding, I had to prepare formula milk for my baby.
-But the instructions on the box were very small, confusing, and badly organized.
+When I had to prepare formula milk for my baby.
+The instructions on the box were very small, confusing, and badly organized.
 Under stress, with a baby crying in my arms, I miscounted the scoops — and had to start again.
 (Getting the amount wrong can be really dangerous for newborns.)
 
