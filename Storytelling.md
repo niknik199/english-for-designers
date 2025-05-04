@@ -1,7 +1,7 @@
 # When Design Fails, Stress Grows
 Storytelling: Why Simplicity and Clarity in Graphic Design Matter More Than Ever
 
-Who I Am (And How I Got Here)
+## Who I Am (And How I Got Here)
 
 Hi, I’m Nikola Zemanová – graphic designer, visual storyteller, and proud believer that good design makes life easier, not harder.
 
