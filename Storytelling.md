@@ -1,4 +1,26 @@
 # When Design Fails, Stress Grows
+Storytelling: Why Simplicity and Clarity in Graphic Design Matter More Than Ever
+
+Who I Am (And How I Got Here)
+
+Hi, I’m Nikola Zemanová – graphic designer, visual storyteller, and proud believer that good design makes life easier, not harder.
+
+Ever since I was little, I’ve loved making things. Drawing, painting, inventing, reimagining – I rarely followed the instructions. I liked doing things my way. My parents and grandparents always supported my creativity, and my dad was convinced I’d become an architect.
+And I tried! I spent three years studying architecture… but in the end, it didn’t feel right. The further I went, the more I realized: the technical part was swallowing my imagination. It was too rigid. I didn’t want to calculate — I wanted to create. So I shifted paths
+
+So I left the architecture studies and begun my journey as a graphic designer. I started to study at PSCC. Moved in with my partner. I started experimenting.
+And suddenly, I felt much more free. I started selling my paintings, then came handmade crocheted home decor. After that, I found myself truly passionate for the graphics, so I slowly started working as a freelance designer. One of my first out-of-school projects was a Japanese cultural event branding and promotion. My partner made calligraphy for the exhibition which was a part of the event and I did graphicsfor the whole event. He is a programmer, so we also did a brand new website for them together. After some other school projects, I got contacted by the owner of Pets Yoga Prague company. They were looking for a new brand identity. This was my first "real big project" and I loved it. My main focus went to graphics. And meanwhile, in some free time, I was baking cakes, made food look beautiful, dabbled in ceramics, visited galleries and sketched elven women.
+
+One thing always stayed the same:
+I was chasing creativity and beauty. Whatever the medium, that was always my drive.
+
+And than suddenly, life gave me a whole new brief —
+pregnancy and childbirth.
+Nothing has shifted my perspective more. I had to learn, how to slow down a little bit.
+
+Suddenly, design wasn’t just about beautiful compositions or smart layouts.
+It became about clarity, function, peace.
+I realized that bad design isn’t just annoying. It’s exhausting. It can even cause a harm. 
 
 ## A Story About Simplicity, Survival, and a Crying Baby
 
