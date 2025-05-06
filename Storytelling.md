@@ -20,7 +20,10 @@ And suddenly, I felt much more free. I started selling my paintings, then tried 
 
 .
 
-One of my first out-of-school projects was a Japanese cultural event branding and promotion. My partner made calligraphy for the exhibition which was a part of the event and I did graphics. He is a programmer, so we also did a brand new website for them together. And after few other school projects, I got contacted by the owner of Pets Yoga Prague company. They were looking for a new brand identity. This was my first "real big project" and I loved it. My main focus went to graphics. And meanwhile, in some free time, I was baking cakes, made some good-looking foods, dabbled in ceramics, visited galleries and sketched elven women.
+One of my first out-of-school projects was a Japanese cultural event branding and promotion. My partner made calligraphy for the exhibition which was a part of the event and I did graphics. He is a programmer, so we also did a brand new website for them together. And after few other school projects, I got contacted by the owner of Pets Yoga Prague company. They were looking for a new brand identity. This was my first "real big project" and I loved it. 
+
+
+My main focus went to graphics. And meanwhile, in some free time, I was baking cakes, made some good-looking foods, dabbled in ceramics, visited galleries and sketched elven women.
 
 One thing always stayed the same:
 I was chasing creativity and beauty. Whatever the medium, that was always my drive.
